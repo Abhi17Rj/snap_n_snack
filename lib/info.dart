@@ -61,7 +61,7 @@ class _InfoPageState extends State<InfoPage> {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             Text(
-                              'Guided by : Prof. Vikash Kr. Scientist',
+                              'Guided by : Prof. Vikash Kr. Singh',
                               style: TextStyle(
                                 fontFamily: 'Handlee',
                                 fontSize: 26.0,
