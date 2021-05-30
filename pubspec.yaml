@@ -1,0 +1,55 @@
+name: snapnsnack
+description: A Recipe suggestion app based on the scanned vegetables present on the picture.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  cloud_firestore: ^2.2.0
+  firebase_core: ^1.2.0
+  firebase_auth: ^1.2.0
+  loading_overlay: ^0.3.0
+  alert: ^2.0.1
+  flutter_spinkit: ^5.0.0
+  tflite: ^1.1.2
+  image_picker: ^0.7.5+3
+  path_provider: ^2.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/
+    - assets/labels.txt
+    - assets/model_unquant.tflite
+
+
+  fonts:
+    - family: BigShoulders
+      fonts:
+        - asset: fonts/BigShouldersInlineText-Black.ttf
+
+    - family: Modak
+      fonts:
+        - asset: fonts/Modak-Regular.ttf
+
+    - family: Handlee
+      fonts:
+        - asset: fonts/Handlee-Regular.ttf
+
+    - family: Limelight
+      fonts:
+        - asset: fonts/Limelight-Regular.ttf

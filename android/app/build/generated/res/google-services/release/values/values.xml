@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">336308838134-albllbjra3tpdo2f5faa40liqneklohe.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">336308838134</string>
+    <string name="google_api_key" translatable="false">AIzaSyBfGTVO-OE_3XfPiL8aqWsyBCKnkFRKPAg</string>
+    <string name="google_app_id" translatable="false">1:336308838134:android:4f8ebad47f7e6a649996d7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBfGTVO-OE_3XfPiL8aqWsyBCKnkFRKPAg</string>
+    <string name="google_storage_bucket" translatable="false">snap-n-snack-ed32f.appspot.com</string>
+    <string name="project_id" translatable="false">snap-n-snack-ed32f</string>
+</resources>

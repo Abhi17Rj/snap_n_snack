@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336308838134",
+    "project_id": "snap-n-snack-ed32f",
+    "storage_bucket": "snap-n-snack-ed32f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336308838134:android:4f8ebad47f7e6a649996d7",
+        "android_client_info": {
+          "package_name": "com.example.snapnsnack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336308838134-albllbjra3tpdo2f5faa40liqneklohe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfGTVO-OE_3XfPiL8aqWsyBCKnkFRKPAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336308838134-albllbjra3tpdo2f5faa40liqneklohe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

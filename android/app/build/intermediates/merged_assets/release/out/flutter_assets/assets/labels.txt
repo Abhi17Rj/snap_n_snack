@@ -1,0 +1,7 @@
+0 Brinjal
+1 Cabbage
+2 Carrot
+3 Cauliflower
+4 Peas
+5 Potato
+6 Tomato
